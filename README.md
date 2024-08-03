@@ -4,4 +4,4 @@
         <figcaption>
 
 
-### Image-to-text conversion involves using algorithms to analyze images and extract any text they contain. This can include printed text, handwritten notes, or even captions describing the image. The technology is widely used in fields such as document digitization, accessibility for the visually impaired, and content analysis in e-commerce.        
+### Image-to-text  This process generates descriptive text for images, which can help visually impaired individuals understand visual content. Image captioning models analyze the content of an image and produce relevant descriptions, enhancing accessibility and user experienc. 
